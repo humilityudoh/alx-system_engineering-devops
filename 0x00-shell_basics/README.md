@@ -1,1 +1,1 @@
-Write a script that prints the type of the file named
+Write a script that changes the working directory
