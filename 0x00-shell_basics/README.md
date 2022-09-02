@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+Create a script that copies all the HTML files
