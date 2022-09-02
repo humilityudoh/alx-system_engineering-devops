@@ -1,1 +1,1 @@
-Delete the directory
+Create a symbolic link
