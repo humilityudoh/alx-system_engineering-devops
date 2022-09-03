@@ -1,2 +1,2 @@
 #!/bin/bash
-in –s /bin/ls _ls_
+chown -h vincent:staff *
